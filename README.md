@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://oksabot.github.io/rsschool-cv/
